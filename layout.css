@@ -1,0 +1,36 @@
+.a2{
+    color: white;
+    padding-left: 20px;
+    background-color: rgb(0, 190, 238);
+}
+
+.div1{
+    background-color: rgb(0, 190, 238);
+    text-align: center;
+    padding: 15px;
+    width: 98%;    
+}
+
+.capa{
+    width: 100%;
+}   
+
+.imagem{
+    width: 1000px;
+}
+
+.div3, .div4, .div5{
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: left;
+    padding: 15px;
+}
+.a1{
+    background-color: rgb(0, 190, 238);
+    display: inline;
+    padding: 7px;
+}
+
+.link{
+    color: white;
+}
